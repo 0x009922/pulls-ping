@@ -24,3 +24,5 @@ gh_ping-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/config.yaml
